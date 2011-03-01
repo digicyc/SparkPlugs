@@ -1,0 +1,12 @@
+<!-- Define your plugins -->
+<plugin>
+    <name>Debugger</name>
+    <version>1.0</version>
+    <author>Aaron Allred</author>
+    <homePage>http://tsyklon.org</homePage>
+    <email>cyclone@antitech.org</email>
+    <description>Debug Console.</description>
+    <class>com.jivesoftware.debug.Debug</class>
+    <minSparkVersion>2.0.0.1</minSparkVersion>
+</plugin>
+

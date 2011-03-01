@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9"
+   name=""
+   committed-date="2006-09-13T16:27:25.474856Z"
+   url="svn://tsyklon.org/home/svn/repos/priority/src/com/jivesoftware/priority"
+   last-author="svn"
+   kind="dir"
+   uuid="367415fd-ff1a-0410-aa48-94b3d40612c6"
+   repos="svn://tsyklon.org/home/svn/repos"
+   revision="9"/>
+<entry
+   committed-rev="9"
+   name="Priority.java"
+   text-time="2006-09-13T16:22:52.000000Z"
+   committed-date="2006-09-13T16:27:25.474856Z"
+   checksum="825e80959a2dc292655c9759dbbd65c5"
+   last-author="svn"
+   kind="file"
+   prop-time="2006-09-13T16:22:52.000000Z"/>
+<entry
+   committed-rev="9"
+   name="PriorityDialog.java"
+   text-time="2006-09-13T16:22:52.000000Z"
+   committed-date="2006-09-13T16:27:25.474856Z"
+   checksum="5be8e25e0b4b88f542a579b92e88f29d"
+   last-author="svn"
+   kind="file"
+   prop-time="2006-09-13T16:22:52.000000Z"/>
+<entry
+   name=".PriorityDialog.java.swp"
+   kind="file"
+   deleted="true"
+   revision="11"/>
+</wc-entries>

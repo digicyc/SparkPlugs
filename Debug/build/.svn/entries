@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9"
+   name=""
+   committed-date="2006-09-13T16:27:25.474856Z"
+   url="svn://tsyklon.org/home/svn/repos/priority/build"
+   last-author="svn"
+   kind="dir"
+   uuid="367415fd-ff1a-0410-aa48-94b3d40612c6"
+   repos="svn://tsyklon.org/home/svn/repos"
+   revision="9"/>
+<entry
+   name="classes"
+   kind="dir"
+   deleted="true"/>
+<entry
+   committed-rev="9"
+   name="build.xml"
+   text-time="2006-09-13T16:22:51.000000Z"
+   committed-date="2006-09-13T16:27:25.474856Z"
+   checksum="c2683e4127b6be9cb02ebb206d56fe68"
+   last-author="svn"
+   kind="file"
+   prop-time="2006-09-13T16:22:51.000000Z"/>
+</wc-entries>

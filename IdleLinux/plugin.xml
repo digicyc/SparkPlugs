@@ -1,0 +1,12 @@
+<!-- Define your plugins -->
+<plugin>
+    <name>Linux Idle TimeOut</name>
+    <version>1.6</version>
+    <author>Aaron Allred</author>
+    <homePage>http://tsyklon.org</homePage>
+    <email>cyclone@antitech.org</email>
+    <description>Idle TimeOut/AutoAway support for Linux.</description>
+    <class>com.jivesoftware.idlelinux.CheckIdle</class>
+    <minSparkVersion>2.0.1</minSparkVersion>
+</plugin>
+

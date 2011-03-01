@@ -1,0 +1,1 @@
+g++ -o libLinuxIdle.so libXss.so.1.0.0 -shared -Wl,-soname,libLinuxIdle.so -I/opt/java/include -I/opt/java/include/linux -lXi -lXext -lX11 -I/usr/include/X11/extensions com_jivesoftware_idlelinux_LinuxIdle.cpp
